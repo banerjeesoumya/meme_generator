@@ -1,1 +1,1 @@
-# meme_generator
+**The meme generator project is a web application that allows users to generate memes, display jokes, quotes, and ask riddles. It combines HTML, CSS, and JavaScript to create an interactive experience for the user. Upon making specific requests, the application dynamically generates and presents humorous content to engage and entertain the user.**
